@@ -1,7 +1,7 @@
-# 🛒 Zepto E-commerce SQL Analysis
+# 🛒 Zepto Q-commerce SQL Analysis
 
 **Project Overview**  
-This project simulates a real-world data analyst workflow using Zepto’s e-commerce inventory dataset. The goal is to explore, clean, and analyze inventory data with SQL and generate actionable business insights.  
+This project simulates a real-world data analyst workflow using Zepto’s Q-commerce inventory dataset. The goal is to explore, clean, and analyze inventory data with SQL and generate actionable business insights.  
 
 **Purpose**  
 - Build a strong portfolio project for data analyst roles  
